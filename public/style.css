@@ -1,0 +1,22 @@
+.body-wrapper{
+    display: flex;
+}
+
+.btns-holder{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.auth-btn{
+    background-color: greenyellow;
+    padding: 15px;
+    margin:15px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.auth-btn:hover{
+    background-color: yellow;
+}
